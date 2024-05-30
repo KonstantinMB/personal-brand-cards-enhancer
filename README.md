@@ -15,21 +15,21 @@ Personal Brand Cards Enhancer is an augmented reality (AR) application that enha
 # Had Issues Setting Up The Project in GitHub
 .. so here is a more visual look at the configurations and setup ⏬
 
-## This Is The Final View That Your Personal Card Will Get After Applying Our AR
+### This Is The Final View That Your Personal Card Will Get After Applying Our AR
 ![personal-brand-card-with-effects](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/6dc2c813-5210-475c-ad55-0f95ff036d28)
 
-## The Configurations of the Main Panel ⬇️
+### The Configurations of the Main Panel ⬇️
 ![main-card-panel-configs](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/f2456720-25a0-4e04-8fed-5e88ff382a83)
 
-## The Configurations of the Separate Elements (Unity Materials)
+### The Configurations of the Separate Elements (Unity Materials)
 ![element-configurations](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/ba891a5a-4e77-48c6-b297-68936922eacd)
 
-## You Can Find the Source Code That Handles MouseClicks And Screen Touch Activities;
+### You Can Find the Source Code That Handles MouseClicks And Screen Touch Activities;
 ```c-sharp
 \Assets\Scripts\
 ```
 
-## Setup
+## 💻 Setup
 ### Clone the Repository:
 ```bash
 git clone https://github.com/yourusername/personal-brand-cards-enhancer.git
