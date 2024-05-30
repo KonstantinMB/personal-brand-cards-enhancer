@@ -1,4 +1,4 @@
-![personal-brand-card-with-effects](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/cc55ac27-fe0d-4817-99dc-46d378a75eb0)# Personal Brand Cards Enhancer
+# Personal Brand Cards Enhancer
 Personal Brand Cards Enhancer is an augmented reality (AR) application that enhances personal branding cards by displaying additional social media links and contact information in real-time when viewed through a camera. This app is designed to provide an interactive and informative experience, allowing users to easily access relevant information about individuals.
 
 ## Features
