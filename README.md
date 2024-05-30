@@ -1,4 +1,4 @@
-# Personal Brand Cards Enhancer
+![personal-brand-card-with-effects](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/cc55ac27-fe0d-4817-99dc-46d378a75eb0)# Personal Brand Cards Enhancer
 Personal Brand Cards Enhancer is an augmented reality (AR) application that enhances personal branding cards by displaying additional social media links and contact information in real-time when viewed through a camera. This app is designed to provide an interactive and informative experience, allowing users to easily access relevant information about individuals.
 
 ## Features
@@ -11,6 +11,23 @@ Personal Brand Cards Enhancer is an augmented reality (AR) application that enha
 - Vuforia Engine installed and configured in Unity
 - Android SDK installed
 - Supported Devices: Android
+
+# Had Issues Setting Up The Project in GitHub
+.. so here is a more visual look at the configurations and setup ⏬
+
+## This Is The Final View That Your Personal Card Will Get After Applying Our AR
+![personal-brand-card-with-effects](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/6dc2c813-5210-475c-ad55-0f95ff036d28)
+
+## The Configurations of the Main Panel ⬇️
+![main-card-panel-configs](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/f2456720-25a0-4e04-8fed-5e88ff382a83)
+
+## The Configurations of the Separate Elements (Unity Materials)
+![element-configurations](https://github.com/KonstantinMB/personal-brand-cards-enhancer/assets/76811860/ba891a5a-4e77-48c6-b297-68936922eacd)
+
+## You Can Find the Source Code That Handles MouseClicks And Screen Touch Activities;
+```c-sharp
+\Assets\Scripts\
+```
 
 ## Setup
 ### Clone the Repository:
