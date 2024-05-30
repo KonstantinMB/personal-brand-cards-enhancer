@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bar-samar" size="0.090000 0.058730" />
+    <ImageTarget name="business-card-4" size="0.090000 0.060000" />
+    <ImageTarget name="business-card-3" size="0.090000 0.090000" />
+    <ImageTarget name="business-card-2" size="0.090000 0.090000" />
+  </Tracking>
+</QCARConfig>
